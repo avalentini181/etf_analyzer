@@ -8,7 +8,7 @@ In this Challenge assignment, I built a financial database and web application b
 
 # What am I Creating
 
-For this Challenge assignment, you need to create and submit the following deliverables:
+For this Challenge assignment, I needed to create and submit the following deliverables:
 
 1. A Jupyter notebook that contains the following:
 
